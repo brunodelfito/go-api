@@ -6,4 +6,5 @@ create table product (
 	price numeric (10, 2) not null
 );
 
+
 insert into product (product_name, price) values ('produto1', 10);
